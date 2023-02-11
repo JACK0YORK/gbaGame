@@ -1,4 +1,26 @@
-# gbaGame
+# Go for Gold
 
-Basic game for the Gameboy Advance
-Made for my CS 2110 Class
+<center>
+Jackson York
+
+CS 2110
+</center>
+
+This is a game with a very simple premise: Help Buzz collect all the yellow "A" coins while avoiding the bouncing red "C" coin.
+
+You can double-jump, wall-jump, and double jump after wall-jumping.
+
+## Controls
+
+Key | Game Action | Menu Action
+----|---|---
+⬆️ | Jump | Up
+⬇️ | Crouch | Down
+⬅️ | Move left |
+➡️ | Move right |
+`select`| Restart | Restart
+`start` | Pause/Play | Select Option
+
+## Notes
+
+I have tested every possible coin spawn, they are all possible to reach.
